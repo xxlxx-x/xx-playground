@@ -164,7 +164,7 @@ export default {
           width: calc(100% - 200px);
         }
         .might-done {
-          text-decoration: line-through;
+          text-decoration: line-through wavy #24bffb;
         }
         .spacer {
           flex-grow: 1;

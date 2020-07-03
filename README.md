@@ -1,4 +1,18 @@
-# complex-todos
+# complex-todos ? 
+# no it's simple now!!!
+
+# Any question can open an issue!
+
+## font style
+
+```
+"Gochi Hand" created by google
+// https://fonts.googleapis.com/css?family=Gochi+Hand
+```
+
+## resouces from 
+
++ `https://codepen.io/cassie-codes/pen/pYwXwb?editors=0100`
 
 ## Project setup
 ```
